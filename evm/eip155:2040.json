@@ -1,0 +1,34 @@
+{
+    "rpc": "https://rpc.vanarchain.com",
+    "websocket": "wss://ws.vanarchain.com",
+    "nodeProvider": {
+      "name": "Vanar",
+      "email": "",
+      "website": "Vanarchain.com"
+    },
+    "chainId": "eip155:2040",
+    "chainName": "Vanar",
+    "chainSymbolImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/eip155:1/chain.png",
+    "bip44": {
+      "coinType": 60
+    },
+    "currencies": [
+      {
+        "coinDenom": "VANRY",
+        "coinMinimalDenom": "vanar-native",
+        "coinDecimals": 18,
+        "coinGeckoId": "vanar",
+        "coinImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/eip155:1/ethereum-native.png"
+      }
+    ],
+    "feeCurrencies": [
+      {
+        "coinDenom": "VANRY",
+        "coinMinimalDenom": "vanar-native",
+        "coinDecimals": 18,
+        "coinGeckoId": "vanar",
+        "coinImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/eip155:1/ethereum-native.png"
+      }
+    ],
+    "features": []
+  }
