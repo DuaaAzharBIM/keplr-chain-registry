@@ -8,26 +8,26 @@
     },
     "chainId": "eip155:78600",
     "chainName": "Vanguard",
-    "chainSymbolImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/eip155:1/chain.png",
+    "chainSymbolImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/eip155:78600/chain.png",
     "bip44": {
       "coinType": 60
     },
     "currencies": [
       {
         "coinDenom": "VANRY",
-        "coinMinimalDenom": "vanar-native",
+        "coinMinimalDenom": "vanguard-native",
         "coinDecimals": 18,
-        "coinGeckoId": "ethereum",
-        "coinImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/eip155:1/ethereum-native.png"
+        "coinGeckoId": "",
+        "coinImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/eip155:78600/vanguard-native.png"
       }
     ],
     "feeCurrencies": [
       {
         "coinDenom": "VANRY",
-        "coinMinimalDenom": "ethereum-native",
+        "coinMinimalDenom": "vanguard-native",
         "coinDecimals": 18,
-        "coinGeckoId": "ethereum",
-        "coinImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/eip155:1/ethereum-native.png"
+        "coinGeckoId": "",
+        "coinImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/eip155:78600/vanguard-native.png"
       }
     ],
     "features": []
